@@ -1,0 +1,12 @@
+{
+  "name": "easy-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hou1183633065/easy-development.git",
+  "author": "houzhiqiang <zhq.hou@muheda.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  }
+}
